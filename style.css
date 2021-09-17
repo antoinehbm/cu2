@@ -1,0 +1,43 @@
+body
+{
+    background-color: #cccccc;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 60px;
+}
+
+h1, p
+{
+    color: #333;
+    font-family: sans-serif;
+}
+
+ul
+{
+    list-style-position: inside;
+}
+
+li:first-child
+{
+    color: yellow;
+}
+
+li:last-child
+{
+    color: red;
+}
+
+#links
+{
+    width: 500px;
+    float:left;
+}
+
+#rechts
+{
+    width: 300px;
+    float:left;
+}
